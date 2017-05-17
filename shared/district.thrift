@@ -27,4 +27,5 @@ struct DistrictOption {
    2:required string provinceCode,
    3:required string districtCode,
    4:required string name
+   5:optional string type
 }

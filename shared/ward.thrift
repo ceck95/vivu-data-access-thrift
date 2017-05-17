@@ -31,4 +31,5 @@ struct WardOption {
    4:required string districtCode,
    5:optional string wardCode,
    6:optional string name
+   7:optional string type
 }
